@@ -6,7 +6,7 @@ This repository contains my hands-on GenAI assignments and projects using LangCh
 
 ## 📂 Projects
 
-### 📌 Prompt Engineering (LangChain)
+### 1.) Prompt Engineering (LangChain)
 
 Built a mini prompt engine using LangChain to generate dynamic and reusable prompts.
 
@@ -19,7 +19,7 @@ Built a mini prompt engine using LangChain to generate dynamic and reusable prom
 * Input validation
 * Dynamic prompt generation
 
-📁 Path: `langchain/prompt_engineering`
+📁 Path: [View Project](https://github.com/tejassswa17/genai-projects/tree/main/langchain/prompt_engineering)
 
 ---
 
