@@ -1,6 +1,0 @@
-langchain
-langchain-openai
-langchain-community
-langsmith
-python-dotenv
-huggingface_hub
