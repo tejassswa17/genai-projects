@@ -1,0 +1,10 @@
+John Smith
+
+Skills:
+Python, Machine Learning, Deep Learning, NLP, SQL
+
+Tools:
+TensorFlow, PyTorch, Scikit-learn, Pandas
+
+Experience:
+3 years as Data Scientist working on NLP and deep learning projects

@@ -1,0 +1,10 @@
+Rahul Kumar
+
+Skills:
+Python, Machine Learning
+
+Tools:
+Scikit-learn, Pandas
+
+Experience:
+2 years as Data Analyst working on basic ML models

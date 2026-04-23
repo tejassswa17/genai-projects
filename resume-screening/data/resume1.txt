@@ -1,0 +1,5 @@
+John Doe
+
+Skills: Python, Machine Learning, NLP
+Tools: TensorFlow, Scikit-learn
+Experience: 2 years as Data Analyst
